@@ -1,5 +1,11 @@
 <!--p align="center"><img src="http://svgur.com/i/3Dp.svg"></p-->
 
+*goal of this forked repository is to darken gruvbox too the limit*
+
+main contributor is listed in `package.json`
+
+---
+
 gruvbox is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
 
 Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of [solarized][]. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
